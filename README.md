@@ -1,1 +1,1 @@
-This is a basic diet app 
+This is a basic diet app for demonstration
